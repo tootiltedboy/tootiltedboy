@@ -14,7 +14,7 @@ Feel free to follow my progress and check out my work!
 ## 🛠 Skills and Tools
 - **Microelectronics Design:** [![DipTrace](https://img.shields.io/badge/Dip-Trace-green)](https://diptrace.com) [![LabView](https://img.shields.io/badge/Lab-View-darkyellow)](https://www.ni.com/nl-nl/shop/product/labview.html)
 - **Circuit Simulation:** [![QUCS-S](https://img.shields.io/badge/QUCS-S-orange)](https://ra3xdh.github.io) [![Multisim](https://img.shields.io/badge/NI-Multisim-darkgreen)](https://www.ni.com/nl-nl/shop/product/multisim.html)
-- **C++ (beginner level):** ![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white) ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+- **C++ (beginner level):** [![Clion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/) ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 - **Git** 
 
 ## 📫 Let's Connect!
